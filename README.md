@@ -1,3 +1,5 @@
+Here is a Colab Jupyter Notebook that runs an example experiment: https://colab.research.google.com/drive/1W2oVWC48HmBCbMHZOXMLkXUIfMIy3_iY?usp=sharing
+
 <p>To run an experiment, follow the instructions below:</p>
 
 <h2>Running an Experiment</h2>
